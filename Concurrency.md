@@ -22,6 +22,62 @@ This concept suddenly coincides with the hints from the English dictionaries. If
 
 I think this will be the most direct way of explaning the difference between these two concepts, in a road perspective. 
 
+## Difference between synchronous and asynchronous
+
+I believe every terminology/concept is a noun. A noun is supposed to have its etymology, most of the time, physical etymology. 
+
+At first, when I look up `synchronous` at the first time, every English dictionary tells me synchronous means sth happening at precisely the same time (meanings vary a little bit across dictionaries). Other engineering explanations don't help a lot. Even related words like synchrony, synchronize etc. stress on the point about precisely the same time. 
+
+Online explanations about `synchronous` obviously don't help a lot because all of them are interpretations of this word, rather than why the point about precisely the same time evolves in computer science field. The same question arose like that in `Difference between concurrency and parellelism`.
+
+I often doubt about the interpretations about `chronous`, i.e. time. Maybe that's the key to the question. However, no matter how I interpret time, such as time slices, specific time, lifetime, time period, etc. couldn't persuade myself distinguish the difference between synchronous and asynchronous. 
+
+In addition, I think every person, system shares the same time clock, i.e. the time in the real world (of course this is an old school thought, not standing in physics, or even for system time or process time). How could I persuade myself that the difference is lying in they share the same time or not according to some online explanations. 
+
+I have no other way and had to sought for etymology again. I noticed that `synchronous` = `syn`: together + `khronos`: time. `khronos` evolves into `chrono` in English.  I also noticed that in the meanings of `synchronous` and `synchronism`, there is one saying `recurring at the same successive instants of time`. Maybe that's the clue. 
+
+I recalled that `chrono-` related words, `chronology` means study of history events in a table (exact meaning doesn't matter). All I want to stress is that here `chrono` is interpreted as something as timeline. Time has its own order if we look at this way, from the past to the present.
+
+From this perspective, all of the meanings of `synchronous`, or `synchronization` converge. Because `synchronization` actually have another meaning that could explain the difference, which is the coordination of events to operate a [system](https://en.wikipedia.org/wiki/System) in unison according to Wikipedia. Meanings of `synchronous` word family are 
+
+- happening, existing, or arising at precisely the same time
+- recurring at the same successive instants of time
+- the coordination of events to operate a [system](https://en.wikipedia.org/wiki/System) in unison
+
+Here time could mean a specific time, when talking about timepiece, while also could mean timeline, when talking about parts within a system. In the timeline perspective, `synchronization` means `syn`: together + `chrono-`: timeline + `-ation`: abstraction. That is, all parts are together and working one after another while time proceeds (think about chronology when historical events happening one after another generally in our earth timespace). In contrast, `asynchronous` means all parts that may be not together, or they could keep working, parallelly or not while time proceeds.
+
+From this perspective, the time interpretations are just different, but could perfectly explaining `synchronization` meanings in linguistic, computer science, and as a general term, or even engineering. 
+
+Although you may think this explanation barely explains the difference, this is the most direct answer to why `synchron...` stress on precisely the same time but they means events working one after another, which is not precisely the same time in computer science (because in this case, `chrono-` actually means timeline).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
